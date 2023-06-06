@@ -17,7 +17,7 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 ```
 '''Program to find L and U matrix using LU decomposition.
-Developed by: JEEVITH S
+Developed by: JEEVITHA S
 RegisterNumber:212222100016 
 '''
 import numpy as np
@@ -43,9 +43,10 @@ print(res)
 ```
 
 ## Output:
-
+i)
 ![image](https://github.com/Jeevithha/LU-Decomposition/assets/123623197/7643ccc0-caf0-4982-a315-229091acf05c)
 
+ii)
 ![image](https://github.com/Jeevithha/LU-Decomposition/assets/123623197/a0f7943f-f0fe-487c-b78a-da4da1e2f129)
 
 ## Result:
